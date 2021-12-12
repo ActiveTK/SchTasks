@@ -1,7 +1,7 @@
 <?php
 
-  define( 'password_md5' , '051eba109d396ed0847069407898331b' );
-  define( 'root', '/home/activetk/!UserData/ActiveTK/Documents/Schtasks/' );
+  define( 'password_md5' , 'パスワードのmd5を入力してください。' );
+  define( 'root', 'SchTasksのデータディレクトリのパスを入力してください。' );
 
   session_start();
 
