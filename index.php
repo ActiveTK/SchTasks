@@ -1,7 +1,7 @@
 <?php
 
   define( 'password_md5' , 'パスワードのmd5を入力してください。' );
-  define( 'root', 'SchTasksのデータディレクトリのパスを入力してくだしあ。' );
+  define( 'root', 'SchTasksのデータディレクトリのパスを入力してください。' );
 
   session_start();
 
