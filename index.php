@@ -125,7 +125,7 @@ var CybozuLabs={MD5:{int2hex8_Fx:function(t){return this.int2hex8(65536*t[1]+t[0
     }
     </script>
   </head>
-  <body style="background-color:#e6e6fa;text:#363636;">
+  <body style="background-color:#e6e6fa;color:#363636;">
     <div align="center">
       <br>
       <h1><?=$title?></h1>
